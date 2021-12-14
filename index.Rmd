@@ -1,6 +1,6 @@
 # nullranges project links
 
-* [nullranges package](nullranges)
-* [Tidy Ranges Tutorials](tidy-ranges-tutorials)
+* [*nullranges* package](nullranges)
+* [Tidy Ranges Tutorial](tidy-ranges-tutorial)
 
 
