@@ -1,6 +1,14 @@
-# nullranges project links
+---
+title: nullranges project
+---
+
+![](ranges.jpg)
 
 * [*nullranges* package](nullranges)
 * [Tidy Ranges Tutorial](tidy-ranges-tutorial)
 
+<br><br>
 
+<small> 
+Ranges photo is CC BY-NC 2.0 - [appaIoosa](https://www.flickr.com/photos/appaloosa/331184982)
+</small>
