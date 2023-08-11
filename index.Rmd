@@ -5,7 +5,7 @@ title: nullranges project
 ![](ranges.jpg)
 
 * [*nullranges* package](nullranges)
-* [Tidy Ranges Tutorial](https://tidybiology.github.io/tidy-ranges-tutorial) (moved to `tidybiology` org)
+* [Tidy Ranges Tutorial](https://tidyomics.github.io/tidy-ranges-tutorial) (moved to `tidyomics` org)
 
 <br><br>
 
